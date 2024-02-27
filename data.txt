@@ -1,0 +1,30 @@
+4/1
+
+Security Theory assignment details:
+
+Main Objective: 
+To prepare you for the term test ahead of time.
+
+Task:
+
+    You have to form each group of 3 members (at most).
+    You need to set up questions of 3 types, which are based on marks like 2 marks, 5 marks, and 10 marks, along with their corresponding answers.
+
+Chapters to Cover:
+
+    Chapter 08: (Compulsory)
+    All sections, excluding 8.1.4 and 8.5.2
+    Chapter 01 : (Optional)
+    All sections included
+    Chapter 02 : (Optional)
+    All sections, excluding 2.2.1, 2.2.2, and 2.2.3
+
+
+Optional chapters will bear bonus marks, which may cover up the marks lacking later.
+
+Guidelines:
+
+    Number of questions of different types should be balanced.
+    Only one member from each group will submit, mentioning their Registration ID's as pdf name like 2019331001_2019331002_2019331003.pdf
+    Please provide genuine answers, even if the questions are not.
+    Don't just directly copy from ChatGPT, Goodrich book exercises, or any resources available online.
